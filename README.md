@@ -1,2 +1,7 @@
-# llm_medical_chatbot_public-
-A medical rag model for primary healthcare providers that helps with patient diagnosis. Public repo with paper report only. Responsible AI usage on private repo, restricted to researchers and reviewers upon request. Private Repo: llm_medical_chatbot
+Enhancing Clinical Diagnosis with Advanced NLP: A Comparative Study of Retrieval Augmented Generation Models
+
+
+Folder structure and noteable files:
+
+├── README.md                       	<- The README describing the folder
+├── Project_Paper.pdf 								<- Project Paper pdf
